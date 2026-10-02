@@ -1,6 +1,6 @@
 # Agente-de-Regresion-Lineal
 
-# Prueba de Agente GitHub en la creación de un modelo de Machine Learning
+## Prueba de Agente GitHub en la creación de un modelo de Machine Learning
 
 ### 📊 Regresión Lineal – Predictor de Series Temporales
 Un sistema completo de regresión lineal para organizar, limpiar y predecir series de tiempo de forma automática.
